@@ -1,1 +1,1 @@
-web: html index.html
+worker: python first.py
